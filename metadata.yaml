@@ -1,0 +1,30 @@
+_repo: Tales-Traditions-and-Romance-of-Border-and-Revolutionary-Times_51864
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ellis, Edward Sylvester
+    aliases:
+    - Ellis, E. S. (Edward Sylvester)
+    - Ellis, Edward S. (Edward Sylvester)
+    - Jayne, R. H.
+    birthdate: 1840
+    deathdate: 1916
+    gutenberg_agent_id: '2569'
+    url: http://www.gutenberg.org/2009/agents/2569
+description: ''
+gutenberg_issued: '2016-04-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51864'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E151'
+- !lcc 'PS'
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Anecdotes'
+- !lcsh 'Frontier and pioneer life -- United States -- Anecdotes'
+- GITenberg
+title: Tales, Traditions and Romance of Border and Revolutionary Times
+url: http://www.gutenberg.org/ebooks/51864
